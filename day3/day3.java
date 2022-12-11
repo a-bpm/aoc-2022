@@ -1,9 +1,3 @@
-/*
- * Use a hash set to find the duplicate item
- * Once the duplicate item is found, how do I get the value? a-z 1-26 A-Z 27-52
- * if Char.isUpperCase(X) X-97
- * else X-38
- */
 import java.util.*;
 import java.io.*;
 
